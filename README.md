@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Madhumitha M — AI and Data Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Madhum4107/Madhum4107/main/assets/profile-banner.svg" alt="Madhumitha M — Data Science, Machine Learning and Applied AI" width="100%"/>
 
-### Data Science · Machine Learning · AI
+### Data Science · Machine Learning · Applied AI
 
 **B.E. CSE (AI & ML) · 2028**  
-Building practical projects that turn data into useful insights.
+Building practical projects and learning through experimentation.
 
 [LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [Email](mailto:madhum042007@gmail.com)
 
@@ -15,120 +15,52 @@ Building practical projects that turn data into useful insights.
 
 ## About
 
-Hi, I'm **Madhumitha**, an AI & ML undergraduate at DMI College of Engineering, Chennai. I'm learning by building: exploring datasets, experimenting with models, and turning prototypes into usable tools.
+I'm an AI & ML undergraduate at **DMI College of Engineering, Chennai**. I enjoy working with data, exploring machine-learning approaches, and building small applications that make analysis easier to understand and use.
 
-- Currently focused on **Data Science, Machine Learning, and applied AI**
-- Interested in **analytics, model evaluation, deployment, and data workflows**
-- Seeking opportunities to contribute as a **Data Science / AI / ML intern**
-- I value clear documentation, reproducibility, and honest reporting of project limitations
+- Currently developing skills in **Data Science, Machine Learning, and applied AI**
+- Interested in **data analysis, model evaluation, ML applications, and deployment**
+- Looking for **Data Science / AI / ML internship opportunities**
+- Focused on learning by building, documenting, and improving projects
 
-## Featured Work
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### [ModelGuard AI](https://github.com/Madhum4107/modelguard-ai)
-Local-first ML monitoring prototype for data quality, feature drift, model-health signals, anomaly checks, and downloadable reports.
-
-**Python · FastAPI · scikit-learn · JavaScript**
-
-</td>
-<td width="50%">
-
-### [DataInsight AI](https://github.com/Madhum4107/Data-Insight-AI)
-Dataset workspace for profiling, EDA, baseline models, prediction, payment-risk analysis, and data-grounded assistance.
-
-**Python · Streamlit · Pandas · scikit-learn**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [CampaignLift AI](https://github.com/Madhum4107/CampaignLift-AI)
-Uplift modeling workflow for estimating incremental campaign response, comparing learners, evaluating targeting policies, and exploring budget scenarios.
-
-**Python · ML · FastAPI · React**
-
-</td>
-<td width="50%">
-
-### [Retail Intelligence](https://github.com/Madhum4107/Retail-Intelligence-Platform)
-Interactive dashboard for retail sales, category and region comparisons, inventory exploration, and demand signals.
-
-**Python · Streamlit · Pandas**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Skill Gap Analyzer](https://github.com/Madhum4107/Skill_Gap_Analyzer)
-Transparent role-to-skill checklist tool that compares entered skills, highlights gaps, and explores related roles.
-
-**Python · Streamlit**
-
-</td>
-<td width="50%">
-
-### [CPU & Memory Predictor](https://github.com/Madhum4107/my-project)
-A learning experiment collecting system usage and fitting simple linear models to short CPU and memory samples.
-
-**Python · psutil · scikit-learn**
-
-</td>
-</tr>
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| [ModelGuard AI](https://github.com/Madhum4107/modelguard-ai) | ML monitoring prototype for data quality, feature drift, model-health checks, and reports | Python, FastAPI, scikit-learn, JavaScript |
+| [DataInsight AI](https://github.com/Madhum4107/Data-Insight-AI) | Dataset exploration, profiling, EDA, baseline modeling, prediction, and analysis workspace | Python, Streamlit, Pandas, scikit-learn |
+| [CampaignLift AI](https://github.com/Madhum4107/CampaignLift-AI) | Uplift modeling experiments to estimate campaign impact and compare targeting strategies | Python, ML, FastAPI, React |
+| [Retail Intelligence](https://github.com/Madhum4107/Retail-Intelligence-Platform) | Dashboard for sales, product/category comparisons, regional trends, and inventory exploration | Python, Streamlit, Pandas |
 
 <details>
-<summary><b>More repositories & learning projects</b></summary>
+<summary><b>Other projects & learning repositories</b></summary>
 
-- [Resume Skill Analyzer](https://github.com/Madhum4107/AI_Career_Assistant_Agent) — basic keyword-based resume skill extraction and scoring prototype
-- [Smart Health Risk Prediction Demo](https://github.com/Madhum4107/amd-health-prediction-system) — synthetic, rule-labeled ML exercise; not a medical application
-- [Python Fundamentals Practice](https://github.com/Madhum4107/python-daily-practice) — beginner exercises and learning notes
+- [Skill Gap Analyzer](https://github.com/Madhum4107/Skill_Gap_Analyzer) — compares entered skills against role-related skill lists and highlights gaps
+- [CPU & Memory Predictor](https://github.com/Madhum4107/my-project) — small experiment collecting system-usage samples and fitting simple regression models
+- [Resume Skill Analyzer](https://github.com/Madhum4107/AI_Career_Assistant_Agent) — keyword-based resume skill extraction prototype
+- [Smart Health Risk Prediction Demo](https://github.com/Madhum4107/amd-health-prediction-system) — synthetic, rule-labeled ML practice project; not a medical tool
+- [Python Fundamentals Practice](https://github.com/Madhum4107/python-daily-practice) — practice exercises and learning notes
 - [AI App Compiler](https://github.com/Madhum4107/AI-App-Compiler) — planning-stage repository
 
 </details>
 
-## Automated checks
-
-[![CampaignLift CI](https://github.com/Madhum4107/CampaignLift-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/CampaignLift-AI/actions/workflows/ci.yml)
-[![ModelGuard AI CI](https://github.com/Madhum4107/modelguard-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/modelguard-ai/actions/workflows/ci.yml)
-[![DataInsight AI CI](https://github.com/Madhum4107/Data-Insight-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Data-Insight-AI/actions/workflows/ci.yml)
-[![Retail Dashboard CI](https://github.com/Madhum4107/Retail-Intelligence-Platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Retail-Intelligence-Platform/actions/workflows/ci.yml)
-[![Skill Gap Analyzer CI](https://github.com/Madhum4107/Skill_Gap_Analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Skill_Gap_Analyzer/actions/workflows/ci.yml)
-[![Python Practice CI](https://github.com/Madhum4107/python-daily-practice/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/python-daily-practice/actions/workflows/ci.yml)
-[![CPU Memory Predictor CI](https://github.com/Madhum4107/my-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/my-project/actions/workflows/ci.yml)
-[![Resume Skill Analyzer CI](https://github.com/Madhum4107/AI_Career_Assistant_Agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/AI_Career_Assistant_Agent/actions/workflows/ci.yml)
-[![Health Demo CI](https://github.com/Madhum4107/amd-health-prediction-system/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/amd-health-prediction-system/actions/workflows/ci.yml)
-
-## Skills
+## Skills & Tools
 
 **Programming:** Python · SQL · Java  
-**Data & ML:** Pandas · NumPy · scikit-learn · TensorFlow · PyTorch  
+**Data:** Pandas · NumPy · Jupyter Notebook  
+**Machine Learning:** scikit-learn · TensorFlow · PyTorch  
 **Visualization:** Matplotlib · Plotly  
-**Application:** Streamlit · FastAPI · REST APIs  
-**Tools:** Git · GitHub · Jupyter Notebook
+**App & APIs:** Streamlit · FastAPI · REST APIs  
+**Tools:** Git · GitHub
 
 ## Learning & Achievements
 
 - **AMD AI Engage** — Top 24 participant
 - **AMD AI Developer Program** — Champion · Level 7
 - **AMD ROCm Certified Associate**
-- **30+ AMD learning courses / certificates**
-- **100 AMD Developer Cloud / GPU credits** for hands-on experimentation
+- Completed **30+ AMD courses / learning certificates**
+- **100 AMD Developer Cloud / GPU credits** for experimentation
 
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Madhum4107&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160" alt="GitHub profile statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhum4107&layout=compact&hide_border=true&theme=transparent" height="160" alt="Languages used across public repositories"/>
-
-</div>
-
-## Contact
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [GitHub](https://github.com/Madhum4107) · [Email](mailto:madhum042007@gmail.com)
 
