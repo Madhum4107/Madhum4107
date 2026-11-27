@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Madhumitha M — Data Science and AI" width="100%"/>
+<img src="assets/profile-banner.svg" alt="Madhumitha M — AI and Data Developer" width="100%"/>
 
-### Data Science • Machine Learning • AI
+### Data Science · Machine Learning · AI
 
-*Curious learner building practical, data-driven projects.*
+**B.E. CSE (AI & ML) · 2028**  
+Building practical projects that turn data into useful insights.
 
-[LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [Projects](https://github.com/Madhum4107?tab=repositories) · [Contact](mailto:madhum042007@gmail.com)
+[Portfolio](#featured-work) · [LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [Email](mailto:madhum042007@gmail.com)
 
 </div>
 
@@ -14,71 +15,113 @@
 
 ## About
 
-I'm **Madhumitha M**, a B.E. Computer Science & Engineering (AI & ML) student at **DMI College of Engineering, Chennai** (Class of 2028).
+Hi, I'm **Madhumitha**, an AI & ML undergraduate at DMI College of Engineering, Chennai. I'm learning by building: exploring datasets, experimenting with models, and turning prototypes into usable tools.
 
-I enjoy exploring data, building machine-learning prototypes, and turning ideas into usable applications. My current focus is strengthening my fundamentals through hands-on projects in analytics, ML, and AI.
+- Currently focused on **Data Science, Machine Learning, and applied AI**
+- Interested in **analytics, model evaluation, deployment, and data workflows**
+- Seeking opportunities to contribute as a **Data Science / AI / ML intern**
+- I value clear documentation, reproducibility, and honest reporting of project limitations
 
-- 🔭 Working on end-to-end Data Science and AI projects
-- 🌱 Learning model evaluation, data engineering fundamentals, and practical deployment
-- 🎯 Exploring internship opportunities in Data Science, AI/ML, and analytics
-- 🧩 Interested in building reproducible projects with clear documentation
+## Featured Work
 
-## Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description | Stack |
-|---|---|---|
-| [ModelGuard AI](https://github.com/Madhum4107/modelguard-ai) | Local ML observability prototype for data quality, drift signals, anomaly checks and reports | Python, FastAPI, scikit-learn, JS |
-| [Data Insight AI](https://github.com/Madhum4107/Data-Insight-AI) | Interactive dataset profiling, EDA, baseline ML, prediction and dataset-grounded assistance | Python, Streamlit, Pandas, scikit-learn |
-| [CampaignLift AI](https://github.com/Madhum4107/CampaignLift-AI) | Uplift-modeling workflow for estimating incremental campaign response and targeting | Python, ML, FastAPI, React |
-| [Retail Intelligence Platform](https://github.com/Madhum4107/Retail-Intelligence-Platform) | Retail analytics dashboard for sales, inventory, and demand trends | Python, Streamlit, Pandas |
-| [Skill Gap Analyzer](https://github.com/Madhum4107/Skill_Gap_Analyzer) | Rule-based skill comparison and career-role exploration tool | Python, Streamlit |
-| [CPU & Memory Predictor](https://github.com/Madhum4107/my-project) | System resource monitoring with a simple trend-prediction experiment | Python, psutil, scikit-learn |
+### [ModelGuard AI](https://github.com/Madhum4107/modelguard-ai)
+Local-first ML monitoring prototype for data quality, feature drift, model-health signals, anomaly checks, and downloadable reports.
 
-> These are portfolio and learning projects. Project descriptions reflect their current scope; see each repository for implementation details and limitations.
+**Python · FastAPI · scikit-learn · JavaScript**
 
-## Technical Skills
+</td>
+<td width="50%">
 
-**Languages**  
-Python · SQL · Java
+### [DataInsight AI](https://github.com/Madhum4107/Data-Insight-AI)
+Dataset workspace for profiling, EDA, baseline models, prediction, payment-risk analysis, and data-grounded assistance.
 
-**Data & Machine Learning**  
-Pandas · NumPy · scikit-learn · TensorFlow · PyTorch
+**Python · Streamlit · Pandas · scikit-learn**
 
-**Visualization**  
-Matplotlib · Plotly
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Application Development**  
-Streamlit · FastAPI · REST APIs
+### [CampaignLift AI](https://github.com/Madhum4107/CampaignLift-AI)
+Uplift modeling workflow for estimating incremental campaign response, comparing learners, evaluating targeting policies, and exploring budget scenarios.
 
-**Tools**  
-Git · GitHub · Jupyter Notebook
+**Python · ML · FastAPI · React**
 
-## AMD AI & Developer Learning
+</td>
+<td width="50%">
 
-- 🏅 **AMD AI Engage:** Top 24 participant
-- 🏆 **AMD AI Developer Program:** Champion · Level 7
-- 🎓 **AMD ROCm Certified Associate**
-- 📚 **30+ AMD courses / learning certificates completed**
-- ⚡ AMD Developer Cloud GPU credits for hands-on experimentation
+### [Retail Intelligence](https://github.com/Madhum4107/Retail-Intelligence-Platform)
+Interactive dashboard for retail sales, category and region comparisons, inventory exploration, and demand signals.
 
-## GitHub Activity
+**Python · Streamlit · Pandas**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Skill Gap Analyzer](https://github.com/Madhum4107/Skill_Gap_Analyzer)
+Transparent role-to-skill checklist tool that compares entered skills, highlights gaps, and explores related roles.
+
+**Python · Streamlit**
+
+</td>
+<td width="50%">
+
+### [CPU & Memory Predictor](https://github.com/Madhum4107/my-project)
+A learning experiment collecting system usage and fitting simple linear models to short CPU and memory samples.
+
+**Python · psutil · scikit-learn**
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More repositories & learning projects</b></summary>
+
+- [Resume Skill Analyzer](https://github.com/Madhum4107/AI_Career_Assistant_Agent) — basic keyword-based resume skill extraction and scoring prototype
+- [Smart Health Risk Prediction Demo](https://github.com/Madhum4107/amd-health-prediction-system) — synthetic, rule-labeled ML exercise; not a medical application
+- [Python Fundamentals Practice](https://github.com/Madhum4107/python-daily-practice) — beginner exercises and learning notes
+- [AI App Compiler](https://github.com/Madhum4107/AI-App-Compiler) — planning-stage repository
+
+</details>
+
+## Skills
+
+**Programming:** Python · SQL · Java  
+**Data & ML:** Pandas · NumPy · scikit-learn · TensorFlow · PyTorch  
+**Visualization:** Matplotlib · Plotly  
+**Application:** Streamlit · FastAPI · REST APIs  
+**Tools:** Git · GitHub · Jupyter Notebook
+
+## Learning & Achievements
+
+- **AMD AI Engage** — Top 24 participant
+- **AMD AI Developer Program** — Champion · Level 7
+- **AMD ROCm Certified Associate**
+- **30+ AMD learning courses / certificates**
+- AMD Developer Cloud GPU credits for hands-on experimentation
+
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhum4107&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhum4107&layout=compact&hide_border=true&theme=transparent" height="160" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Madhum4107&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="160" alt="GitHub profile statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhum4107&layout=compact&hide_border=true&theme=transparent" height="160" alt="Languages used across public repositories"/>
 
 </div>
 
-## Let's Connect
+## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/madhumitha4107/)
-- [GitHub](https://github.com/Madhum4107)
-
----
+[LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [GitHub](https://github.com/Madhum4107) · [Email](mailto:madhum042007@gmail.com)
 
 <div align="center">
 
-*Learning continuously. Building thoughtfully. Improving one project at a time.*
+*Learn continuously. Build thoughtfully. Share what works.*
 
 </div>
