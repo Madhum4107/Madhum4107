@@ -7,7 +7,7 @@
 **B.E. CSE (AI & ML) · 2028**  
 Building practical projects that turn data into useful insights.
 
-[Portfolio](#featured-work) · [LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [Email](mailto:madhum042007@gmail.com)
+[Cinematic Portfolio](https://madhum4107.github.io/Madhum4107/) · [LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [Email](mailto:madhum042007@gmail.com)
 
 </div>
 
@@ -97,7 +97,11 @@ A learning experiment collecting system usage and fitting simple linear models t
 [![ModelGuard AI CI](https://github.com/Madhum4107/modelguard-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/modelguard-ai/actions/workflows/ci.yml)
 [![DataInsight AI CI](https://github.com/Madhum4107/Data-Insight-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Data-Insight-AI/actions/workflows/ci.yml)
 [![Retail Dashboard CI](https://github.com/Madhum4107/Retail-Intelligence-Platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Retail-Intelligence-Platform/actions/workflows/ci.yml)
-[![Skill Gap Analyzer CI](https://github.com/Madhum4107/Skill_Gap_Analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Skill_Gap_Analyzer/actions/workflows/ci.yml)\n[![Python Practice CI](https://github.com/Madhum4107/python-daily-practice/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/python-daily-practice/actions/workflows/ci.yml)\n[![CPU Memory Predictor CI](https://github.com/Madhum4107/my-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/my-project/actions/workflows/ci.yml)\n[![Resume Skill Analyzer CI](https://github.com/Madhum4107/AI_Career_Assistant_Agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/AI_Career_Assistant_Agent/actions/workflows/ci.yml)\n[![Health Demo CI](https://github.com/Madhum4107/amd-health-prediction-system/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/amd-health-prediction-system/actions/workflows/ci.yml)
+[![Skill Gap Analyzer CI](https://github.com/Madhum4107/Skill_Gap_Analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Skill_Gap_Analyzer/actions/workflows/ci.yml)
+[![Python Practice CI](https://github.com/Madhum4107/python-daily-practice/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/python-daily-practice/actions/workflows/ci.yml)
+[![CPU Memory Predictor CI](https://github.com/Madhum4107/my-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/my-project/actions/workflows/ci.yml)
+[![Resume Skill Analyzer CI](https://github.com/Madhum4107/AI_Career_Assistant_Agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/AI_Career_Assistant_Agent/actions/workflows/ci.yml)
+[![Health Demo CI](https://github.com/Madhum4107/amd-health-prediction-system/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/amd-health-prediction-system/actions/workflows/ci.yml)
 
 ## Skills
 
