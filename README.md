@@ -13,6 +13,16 @@ Building practical projects that turn data into useful insights.
 
 ---
 
+## Cinematic portfolio website
+
+A custom, responsive portfolio lives in the `site/` folder. It includes project filters, mobile navigation, reduced-motion support, visual project panels, skills, AMD milestones, and contact links.
+
+**Local preview:** open `site/index.html` in a browser.
+
+**GitHub Pages deployment:** this repository includes an automated Pages workflow. Before the first deploy, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. Then rerun the `Deploy cinematic portfolio to GitHub Pages` workflow in the Actions tab. The expected project URL is:
+
+https://madhum4107.github.io/Madhum4107/
+
 ## About
 
 Hi, I'm **Madhumitha**, an AI & ML undergraduate at DMI College of Engineering, Chennai. I'm learning by building: exploring datasets, experimenting with models, and turning prototypes into usable tools.
