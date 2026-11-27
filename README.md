@@ -7,21 +7,11 @@
 **B.E. CSE (AI & ML) · 2028**  
 Building practical projects that turn data into useful insights.
 
-[Cinematic Portfolio](https://madhum4107.github.io/Madhum4107/) · [LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [Email](mailto:madhum042007@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/madhumitha4107/) · [Email](mailto:madhum042007@gmail.com)
 
 </div>
 
 ---
-
-## Cinematic portfolio website
-
-A custom, responsive portfolio lives in the `site/` folder. It includes project filters, mobile navigation, reduced-motion support, visual project panels, skills, AMD milestones, and contact links.
-
-**Local preview:** open `site/index.html` in a browser.
-
-**GitHub Pages deployment:** GitHub Pages must first be enabled manually by the repository owner. Open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. The workflow then deploys automatically after relevant commits. The expected project URL is:
-
-https://madhum4107.github.io/Madhum4107/
 
 ## About
 
