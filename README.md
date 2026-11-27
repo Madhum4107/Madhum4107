@@ -19,7 +19,7 @@ A custom, responsive portfolio lives in the `site/` folder. It includes project 
 
 **Local preview:** open `site/index.html` in a browser.
 
-**GitHub Pages deployment:** this repository includes an automated Pages workflow. Before the first deploy, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. Then rerun the `Deploy cinematic portfolio to GitHub Pages` workflow in the Actions tab. The expected project URL is:
+**GitHub Pages deployment:** GitHub Pages must first be enabled manually by the repository owner. Open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions**. The workflow then deploys automatically after relevant commits. The expected project URL is:
 
 https://madhum4107.github.io/Madhum4107/
 
