@@ -1,40 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="440" viewBox="0 0 1500 440" role="img" aria-labelledby="title desc">
-<title id="title">Madhumitha M — AI, Data & Machine Learning</title>
-<desc id="desc">Cinematic dark portfolio banner with amber light, data visualization, neural network lines, and an engineering identity.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05070b"/><stop offset=".55" stop-color="#0a101a"/><stop offset="1" stop-color="#130c0a"/></linearGradient>
-  <radialGradient id="amber" cx="80%" cy="42%" r="55%"><stop stop-color="#ff8b2b" stop-opacity=".24"/><stop offset="1" stop-color="#ff8b2b" stop-opacity="0"/></radialGradient>
-  <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#f4a340"/><stop offset=".52" stop-color="#f8d26a"/><stop offset="1" stop-color="#ef6544"/></linearGradient>
-  <linearGradient id="fade" x1="0" x2="1"><stop stop-color="#f5a142" stop-opacity=".7"/><stop offset="1" stop-color="#f5a142" stop-opacity="0"/></linearGradient>
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9fb0c4" stroke-opacity=".06" stroke-width="1"/></pattern>
-  <filter id="glow"><feGaussianBlur stdDeviation="7"/></filter>
-</defs>
-<rect width="1500" height="440" rx="24" fill="url(#bg)"/><rect width="1500" height="440" rx="24" fill="url(#grid)"/><rect width="1500" height="440" rx="24" fill="url(#amber)"/>
-<path d="M0 390H1500" stroke="#f4a340" stroke-opacity=".25"/><path d="M0 390H670" stroke="url(#gold)" stroke-width="2"/>
-<g fill="none" stroke="#f7ae49" stroke-opacity=".2">
- <path d="M870 50L1040 180L1180 90L1390 210"/><path d="M920 300L1070 230L1250 320L1450 280"/>
- <path d="M940 40L940 360M1080 60L1080 380M1220 30L1220 380M1360 70L1360 390" stroke-dasharray="2 9"/>
-</g>
-<g fill="#f5ae4c">
- <circle cx="870" cy="50" r="4"/><circle cx="1040" cy="180" r="5"/><circle cx="1180" cy="90" r="4"/><circle cx="1390" cy="210" r="4"/><circle cx="920" cy="300" r="4"/><circle cx="1070" cy="230" r="4"/><circle cx="1250" cy="320" r="4"/><circle cx="1450" cy="280" r="4"/>
-</g>
-<g transform="translate(1030 75)" opacity=".85">
- <rect x="0" y="0" width="370" height="270" rx="18" fill="#080c13" fill-opacity=".55" stroke="#d49b47" stroke-opacity=".28"/>
- <text x="26" y="34" fill="#8e9bac" font-family="monospace" font-size="12" letter-spacing="3">SIGNAL / SYSTEMS / INSIGHT</text>
- <path d="M25 222H345M25 177H345M25 132H345M25 87H345" stroke="#ffffff" stroke-opacity=".06"/>
- <path d="M28 208L72 180L114 192L157 122L202 146L246 80L290 104L340 50" stroke="#f7b34f" stroke-width="3" fill="none"/>
- <path d="M28 224L72 211L114 165L157 186L202 125L246 143L290 112L340 97" stroke="#e66d48" stroke-width="2" fill="none" stroke-opacity=".75"/>
- <g fill="#f7b34f"><circle cx="157" cy="122" r="4"/><circle cx="246" cy="80" r="4"/><circle cx="340" cy="50" r="4"/></g>
- <text x="26" y="252" fill="#f5b44d" font-family="monospace" font-size="11" letter-spacing="2">BUILD • MEASURE • ITERATE</text>
-</g>
-<g transform="translate(92 84)">
- <text x="0" y="0" fill="#f5b14b" font-family="monospace" font-size="15" letter-spacing="5">AI / DATA / ENGINEERING</text>
- <text x="0" y="95" fill="#f4f4f5" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="70" letter-spacing="-2">MADHUMITHA M.</text>
- <text x="3" y="146" fill="#c4ccd6" font-family="Arial, Helvetica, sans-serif" font-size="26" letter-spacing="1">Turning data into decisions.</text>
- <text x="3" y="198" fill="#8e9bac" font-family="monospace" font-size="16">DATA SCIENCE  ·  MACHINE LEARNING  ·  APPLIED AI</text>
- <rect x="3" y="232" width="48" height="3" rx="1.5" fill="url(#gold)"/>
- <text x="3" y="272" fill="#aab5c4" font-family="monospace" font-size="14">B.E. CSE (AI &amp; ML)  /  2028</text>
- <text x="3" y="302" fill="#aab5c4" font-family="monospace" font-size="14">OPEN TO DATA &amp; AI INTERNSHIPS</text>
-</g>
-<rect x="1" y="1" width="1498" height="438" rx="23" fill="none" stroke="#d8a75a" stroke-opacity=".18"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <title>Madhumitha M — Data Science and AI</title>
+  <desc>Dark navy banner with gold accents, a clean data visualization, and a focus on data science, machine learning, and applied AI.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d16"/>
+      <stop offset="1" stop-color="#15111a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f5b84b"/>
+      <stop offset="1" stop-color="#ff754d"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#9fb0c4" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <circle cx="1040" cy="150" r="220" fill="#f59e0b" opacity=".045"/>
+  <path d="M0 278H1200" stroke="#f5b84b" stroke-opacity=".18"/>
+  <path d="M0 278H390" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="64" fill="#f5b84b" font-size="13" letter-spacing="4">DATA · ML · APPLIED AI</text>
+    <text x="64" y="132" fill="#f8fafc" font-size="54" font-weight="700">MADHUMITHA M.</text>
+    <text x="66" y="176" fill="#cbd5e1" font-size="22">Turning data into useful insights.</text>
+    <text x="66" y="220" fill="#9aa8ba" font-size="14" letter-spacing="1.5">B.E. CSE (AI &amp; ML) · 2028</text>
+    <text x="66" y="248" fill="#9aa8ba" font-size="14" letter-spacing="1.5">OPEN TO DATA SCIENCE &amp; AI INTERNSHIPS</text>
+  </g>
+  <g transform="translate(760 54)">
+    <rect width="360" height="210" rx="14" fill="#0b111b" stroke="#f5b84b" stroke-opacity=".22"/>
+    <text x="22" y="30" fill="#94a3b8" font-family="monospace" font-size="11" letter-spacing="2">DATA / SIGNAL</text>
+    <path d="M22 165H338M22 125H338M22 85H338M22 45H338" stroke="#94a3b8" stroke-opacity=".10"/>
+    <path d="M24 160L68 142L112 151L156 103L200 118L244 69L288 88L336 47" fill="none" stroke="#f5b84b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M24 178L68 166L112 132L156 149L200 109L244 126L288 104L336 93" fill="none" stroke="#ff754d" stroke-opacity=".75" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <g fill="#f5b84b">
+      <circle cx="156" cy="103" r="4"/><circle cx="244" cy="69" r="4"/><circle cx="336" cy="47" r="4"/>
+    </g>
+    <text x="22" y="194" fill="#f5b84b" font-family="monospace" font-size="10" letter-spacing="1.4">EXPLORE · MODEL · EVALUATE</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="319" rx="17.5" fill="none" stroke="#f5b84b" stroke-opacity=".14"/>
 </svg>
