@@ -91,6 +91,14 @@ A learning experiment collecting system usage and fitting simple linear models t
 
 </details>
 
+## Automated checks
+
+[![CampaignLift CI](https://github.com/Madhum4107/CampaignLift-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/CampaignLift-AI/actions/workflows/ci.yml)
+[![ModelGuard AI CI](https://github.com/Madhum4107/modelguard-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/modelguard-ai/actions/workflows/ci.yml)
+[![DataInsight AI CI](https://github.com/Madhum4107/Data-Insight-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Data-Insight-AI/actions/workflows/ci.yml)
+[![Retail Dashboard CI](https://github.com/Madhum4107/Retail-Intelligence-Platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Retail-Intelligence-Platform/actions/workflows/ci.yml)
+[![Skill Gap Analyzer CI](https://github.com/Madhum4107/Skill_Gap_Analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/Madhum4107/Skill_Gap_Analyzer/actions/workflows/ci.yml)
+
 ## Skills
 
 **Programming:** Python · SQL · Java  
