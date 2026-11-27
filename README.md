@@ -105,7 +105,7 @@ A learning experiment collecting system usage and fitting simple linear models t
 - **AMD AI Developer Program** — Champion · Level 7
 - **AMD ROCm Certified Associate**
 - **30+ AMD learning courses / certificates**
-- AMD Developer Cloud GPU credits for hands-on experimentation
+- **100 AMD Developer Cloud / GPU credits** for hands-on experimentation
 
 ## GitHub
 
